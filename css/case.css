@@ -27,11 +27,12 @@ html {
   border-radius: 0.125rem;
 }
 body {
-    margin: 0;
+   margin: 0;
     padding: 0;
     font-family: Inter,sans-serif;
     background-color:#111827;
     color: #c7c7c7;
+    overflow-x: hidden;
 }
 header,section {
   min-height: 100vh;
